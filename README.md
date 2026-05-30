@@ -342,8 +342,8 @@ This project is private and proprietary software. All rights reserved.
 
 ## 👥 Team
 
-- **Owner**: Arcada Labs
-- **Project Coordinator**: aadi2404
+- **Owner**: Aditya Singh
+- **Project Coordinator**: Aditya Singh
 
 ---
 
@@ -353,5 +353,8 @@ For issues, questions, or feature requests, please reach out to the project team
 
 ---
 
-**Last Updated**: April 2026  
+**Last Updated**: May 2026  
 **Version**: 1.0.0
+
+Copyright 2026 all right reserved by Aditya Singh © 
+Made with ❤️ by Aditya Singh
